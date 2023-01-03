@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 import csv
 
 
-fraud_data = pd.read_csv("C:\\Users\\Padmaja\\Downloads\\Career\\Placements\\Projects\\Python\\Payments Data\\ProjectCode\\PaymentData.csv", delimiter = ",")
+fraud_data = pd.read_csv("PaymentData.csv", delimiter = ",")
 st.title("The Online Payments Data Analytics Web App")
 
 st.write("")
