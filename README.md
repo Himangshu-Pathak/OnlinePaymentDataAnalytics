@@ -5,6 +5,7 @@ This is a basic web-app that displays a data set obtained from Kaggle about Onli
 
 ## Dataset
 The dataset used in the app has been obtained from Kaggle. Here's the link:
+
 https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 
 ## Tech Stack
@@ -16,4 +17,14 @@ https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 
 ## Snippets
  
+![Dataset](https://user-images.githubusercontent.com/90133084/210760317-cb891c8b-f20d-445d-bb97-d290f3280756.JPG)
+
+![Filtered Dataset](https://user-images.githubusercontent.com/90133084/210760382-570f34cd-fb54-41df-a637-a35cfbdaecce.JPG)
+
+![The multi-column select feature](https://user-images.githubusercontent.com/90133084/210760450-3c0f4222-d90b-41e5-8f99-fcf804b892e8.JPG)
+
+![Pie Chart](https://user-images.githubusercontent.com/90133084/210760571-32e87500-3826-46da-93c5-ad40bb734d3f.JPG)
+
+
+
 
