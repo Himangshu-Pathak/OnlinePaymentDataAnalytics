@@ -1,6 +1,6 @@
 # Online Payment Data Web App
 
-This is a basic web-app that displays a data set obtained from Kaggle about Online Payment Fraud Detection. The dataset has 11 columns but one can particularly understand the correlation between the different paramters - "Type of Payment", "Amount transacted", "Is it a fraudulent transaction", "has it been flagged as a fraudulent transaction". This correlation can be inferred by selecting multiple columns in the tables and from the pie chart.
+This is a basic web-app that displays a data set obtained from Kaggle about Online Payment Fraud Detection. The dataset has 11 columns but one can particularly understand the correlation between the different paramters - "Type of Payment", "Amount transacted", "Is it a fraudulent transaction", "has it been flagged as a fraudulent transaction". This correlation can be inferred by the multi-select column feature. There is also a pie chart which shows the proportion of different "types" of payment, number of transactions which are fraudulent and number of transactions which has been flagged as fraudulent.
 
 
 ## Dataset
